@@ -1,0 +1,17 @@
+{
+  "development": {
+    "database": "bikes",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "bikes",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "database": "bikes",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}

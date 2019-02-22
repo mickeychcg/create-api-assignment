@@ -1,0 +1,25 @@
+{
+  "name": "create-api-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickeychcg/create-api-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickeychcg/create-api-assignment/issues"
+  },
+  "homepage": "https://github.com/mickeychcg/create-api-assignment#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "pg": "^7.8.1",
+    "sequelize": "^4.42.0"
+  }
+}
